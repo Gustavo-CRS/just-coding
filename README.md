@@ -4,7 +4,7 @@ Códigos que eu fiz que achei interessante
 ## Desenvolvedor:
 - Gustavo Consoleti
 
-## Linguagens:
+## Linguagens ou frameworks utilizados nos códigos:
 - Python
 - C
 - Java
