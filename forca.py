@@ -55,4 +55,5 @@ def main():
     if erros < erro_maximo:
         print("\n\nVocê escapou da forca!\n")
 
-main()
+if __name__ == ‘__main__’:
+    main()
