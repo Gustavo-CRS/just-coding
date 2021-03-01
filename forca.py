@@ -3,6 +3,7 @@ from time import sleep
 
 def limpar():
     system("cls")
+    
 
 def main():
     limpar()
@@ -12,7 +13,7 @@ def main():
     palavra_secreta = list(palavra)
     letras_descobertas = []
     erros = 0
-    i = 0
+    
 
     print("\n***** Jogo da Forca*****\n")
 
