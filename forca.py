@@ -12,6 +12,7 @@ def main():
     palavra_secreta = list(palavra)
     letras_descobertas = []
     erros = 0
+    i = 0
 
     print("\n***** Jogo da Forca*****\n")
 
@@ -54,6 +55,4 @@ def main():
                 
     if erros < erro_maximo:
         print("\n\nVocê escapou da forca!\n")
-
-if __name__ == ‘__main__’:
-    main()
+main()
